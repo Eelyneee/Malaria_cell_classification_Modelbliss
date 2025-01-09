@@ -1,5 +1,5 @@
 # Malaria_cell_classification_Modelbliss
-This project is created as Alternate Assessment for WOA7015 Advanced Machine Learning. 
+This project is created as Alternative Assessment for WOA7015 Advanced Machine Learning. 
 The group member consists of Ham Jing Yi, Low Ee Lyne, and Pua Jia Ying.
 
 - **AML Project Final CNN Tuned _Gradcam.ipynb** : This file consists of the final tuned model and gradcam.
