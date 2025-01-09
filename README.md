@@ -4,5 +4,5 @@ Our group name is modelbliss and the group member consists of Ham Jing Yi, Low E
 
 - **AML Project Final CNN Tuned _Gradcam.ipynb** : This file consists of the final tuned model and gradcam.
 - **AML Project Part 2.ipynb** : This file consists of the baseline model, vgg-16 model, first tuned model, resnet-50 model, and inception model.
-- **MalariaUI.py** : Streamlit UI.
-- **malaria-cnn-v3.keras** : the final-tuned model.
+- **MalariaUI.py** : Streamlit UI to visualise XAI GradCAM using final-tuned CNN model.
+- **malaria-cnn-v3.keras** : Final-tuned CNN model.
