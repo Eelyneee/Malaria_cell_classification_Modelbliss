@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 # Load the model
-model = load_model("/content/drive/MyDrive/Colab Notebooks/output/malaria/malaria-cnn-v3.keras")
+model = load_model("malaria-cnn-v3.keras")
 
 # Function to generate Grad-CAM
 def generate_gradcam(model, img_array, layer_name):
